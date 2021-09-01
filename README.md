@@ -14,7 +14,8 @@ A react app using hooks integrated with firebase for authenticating users. The a
 - [MaterialUI](https://material-ui.com/) design components
     
 ## Getting Started
-
+create a folder name .firebase
+then put the file named hosting.cHVibGlj.cache
 ## Installation
 
 **Step 1:**
@@ -65,8 +66,6 @@ Simply run the app using
 ``` 
 ./run.sh
 ```
-
-
 
 
 
