@@ -35,8 +35,8 @@ Setup a new project in firebase and get the configuration.
 **Step 3:**
 
 Go to the folder of the project.
-``` 
-Create a new file `.env`
+ 
+Create a new file '.env'
 ```
 touch .env
 ```
