@@ -15,7 +15,9 @@ A react app using hooks integrated with firebase for authenticating users. The a
     
 ## Getting Started
 create a folder name .firebase
+```
 then put the file named hosting.cHVibGlj.cache
+```
 ## Installation
 
 **Step 1:**
